@@ -14,7 +14,7 @@ A simple API for generating customizable SVG and PNG avatars using the [avataaar
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/AdhamAfis/avatar-api.git
 cd avatar-api
 
 # Install dependencies
